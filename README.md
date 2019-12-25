@@ -1,6 +1,9 @@
 # tourneybot
 ifpa tournament analysis tool
 
+Requires the following pip packages
+pip3 install tabulate
+
 python3 Analyzer.py <tournament_id>
 
 Example:
